@@ -1,4 +1,3 @@
-# kpyys
 <p align="center">
   <img src="https://i.hizliresim.com/t5k2fqp.png" />
 </p>
